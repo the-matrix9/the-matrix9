@@ -1,7 +1,7 @@
   [![𝗧𝗵𝗲_𝗺𝗮𝘁𝗿𝗶𝘅𝟵](https://github-stats-alpha.vercel.app/api?username=the-matrix9 "𝗧𝗵𝗲_𝗺𝗮𝘁𝗿𝗶𝘅𝟵")](https://github-stats-alpha.vercel.app/api?username=the-matrix9 "𝗧𝗵𝗲_𝗺𝗮𝘁𝗿𝗶𝘅𝟵")
 
 
-  # 👋 Hi there! I'm **Anshu**
+  # 👋 Hi there! I'm **Ansh**
 
 🌟 _Full Stack Developer | Tech Enthusiast | Problem Solver_
 
